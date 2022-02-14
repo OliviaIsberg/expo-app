@@ -18,8 +18,7 @@ const styles = StyleSheet.create({
     continer: {
         backgroundColor: 'lightgray',
         height: 100,
-        resizeMode: 'cover'
-
+        resizeMode: 'cover',
     },
 
     socialsContainer: {

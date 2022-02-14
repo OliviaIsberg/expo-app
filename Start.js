@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from 'react-native';
+import { Button, StyleSheet, SafeAreaView, ScrollView } from 'react-native';
 import { View, Text } from 'react-native';
 import Footer from './Footer';
 import Header from './Header';
@@ -8,15 +8,19 @@ import Section from './Section';
 
 function StartScreen({navigation}) {
     return (
-        <View>
-            <Header />
-            <Main />
-            <Section />
-            <Button title="Go to images" onPress={() => navigation.navigate('Image')}></Button>
-            <Footer/>
-        </View>
+        <SafeAreaView>
+            <ScrollView>
+                <Header />
+                <Main />
+                <Section />
+                <Button title="Go to images" onPress={() => navigation.navigate('Image')}></Button>
+                <Footer/>
+            </ScrollView>
+        </SafeAreaView>
+        
     )
 
 }
+
 
 export default StartScreen;
