@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/expo-app/static/js/app.2ca0dbba.chunk.js",
+    "app.js.map": "/expo-app/static/js/app.2ca0dbba.chunk.js.map",
+    "runtime~app.js": "/expo-app/static/js/runtime~app.8245a048.js",
+    "runtime~app.js.map": "/expo-app/static/js/runtime~app.8245a048.js.map",
+    "static/js/2.04875a37.chunk.js": "/expo-app/static/js/2.04875a37.chunk.js",
+    "static/js/2.04875a37.chunk.js.map": "/expo-app/static/js/2.04875a37.chunk.js.map",
+    "fonts/AntDesign.ttf": "/expo-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/expo-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/expo-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/expo-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/expo-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/expo-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/expo-app/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/expo-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/expo-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/expo-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/expo-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/expo-app/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/expo-app/favicon-16.png",
+    "favicon-32.png": "/expo-app/favicon-32.png",
+    "favicon.ico": "/expo-app/favicon.ico",
+    "index.html": "/expo-app/index.html",
+    "manifest.json": "/expo-app/manifest.json",
+    "serve.json": "/expo-app/serve.json",
+    "static/js/2.04875a37.chunk.js.LICENSE.txt": "/expo-app/static/js/2.04875a37.chunk.js.LICENSE.txt",
+    "static/media/bird-1.jpg": "/expo-app/static/media/bird-1.93ae8cbc.jpg",
+    "static/media/bird-2.jpg": "/expo-app/static/media/bird-2.ee455d19.jpg",
+    "static/media/bird-3.jpg": "/expo-app/static/media/bird-3.8eb5b26c.jpg",
+    "static/media/lake.jpg": "/expo-app/static/media/lake.6b53cbf5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.8245a048.js",
+    "static/js/2.04875a37.chunk.js",
+    "static/js/app.2ca0dbba.chunk.js"
+  ]
+}
