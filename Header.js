@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 function Header() {
     return (
         <View>
-            <Text style={styles.headingText}>Startsida</Text>
+            <Text style={styles.headingText}>Lorem Ipsum</Text>
         </View>
 
     )

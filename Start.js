@@ -4,7 +4,6 @@ import { View, Text } from 'react-native';
 import Footer from './Footer';
 import Header from './Header';
 import Main from './Main';
-import Section from './Section';
 
 function StartScreen({navigation}) {
     return (
@@ -12,8 +11,7 @@ function StartScreen({navigation}) {
             <ScrollView>
                 <Header />
                 <Main />
-                <Section />
-                <Button title="Go to images" onPress={() => navigation.navigate('Image')}></Button>
+                <Button title="Go to images" onPress={() => navigation.navigate('Image') }></Button>
                 <Footer/>
             </ScrollView>
         </SafeAreaView>
@@ -21,6 +19,10 @@ function StartScreen({navigation}) {
     )
 
 }
+
+const styles = StyleSheet.create({
+    
+})
 
 
 export default StartScreen;

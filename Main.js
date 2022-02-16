@@ -1,31 +1,25 @@
-import {ImageBackground, View, Text, StyleSheet } from 'react-native';
+import {ImageBackground, View, Text, StyleSheet, Button, SafeAreaView, ScrollView } from 'react-native';
 import lake from './lake.jpg'
+import Section from './Section';
 
-function Main() {
+function Main({navigation}) {
     return (
-        <View>
+        <SafeAreaView>
+        <ScrollView>
             <ImageBackground source={lake} style={styles.image}>
-            <Text style={styles.text}>En sjö</Text>
             </ImageBackground>
-           
-        </View>
+            <Section></Section>
+        </ScrollView>
+        </SafeAreaView>
     )
 }
 
 const styles = StyleSheet.create({
     image: {
         resizeMode: 'cover',
-        height: 250,
+        height: 200,
         position: 'relative'
     },
-
-    text: {
-        fontSize: 30,
-        color: 'white',
-        position: 'absolute',
-        bottom: 20,
-        right: 175
-    }
 })
 
 export default Main;

@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'lightgray',
         height: 100,
         resizeMode: 'cover',
+        // flex: 1
     },
 
     socialsContainer: {
