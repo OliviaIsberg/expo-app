@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet } from 'react-native';
-import { FontAwesome, FontAwesome5, Feather } from '@expo/vector-icons';
+import { FontAwesome5, Feather } from '@expo/vector-icons';
 
 function Footer() {
     return(
@@ -19,7 +19,6 @@ const styles = StyleSheet.create({
         backgroundColor: 'lightgray',
         height: 100,
         resizeMode: 'cover',
-        // flex: 1
     },
 
     socialsContainer: {
