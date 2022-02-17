@@ -1,5 +1,5 @@
 import {ImageBackground, StyleSheet, ScrollView } from 'react-native';
-import lake from './lake.jpg'
+import lake from './assets/lake.jpg'
 import Section from './Section';
 
 function Main({}) {

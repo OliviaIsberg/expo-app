@@ -9,9 +9,9 @@ import {
 } from "react-native";
 import Header from "./Header";
 import Footer from "./Footer";
-import bird from "./bird-1.jpg";
-import secondBird from "./bird-2.jpg";
-import thirdBird from "./bird-3.jpg";
+import bird from "./assets/bird-1.jpg";
+import secondBird from "./assets/bird-2.jpg";
+import thirdBird from "./assets/bird-3.jpg";
 
 function ImageScreen({ navigation }) {
   return (
