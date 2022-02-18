@@ -13,3 +13,11 @@ Funkar det inte att starta med endast npm start så ange kommandona:
 
 npm install --global expo-cli 
 npm start
+
+Länk till app.js [App.js](https://github.com/OliviaIsberg/expo-app/blob/main/App.js)
+Länk till Start [StartScreen](https://github.com/OliviaIsberg/expo-app/blob/main/Start.js)
+Länk till Header [Header](https://github.com/OliviaIsberg/expo-app/blob/main/Header.js)
+Länk till Main [Main](https://github.com/OliviaIsberg/expo-app/blob/main/Main.js)
+Länk till Footer [Footer](https://github.com/OliviaIsberg/expo-app/blob/main/Footer.js)
+Länk till sida med bilder [Images](https://github.com/OliviaIsberg/expo-app/blob/main/Images.js)
+Länk till Section [Section](https://github.com/OliviaIsberg/expo-app/blob/main/Section.js)
